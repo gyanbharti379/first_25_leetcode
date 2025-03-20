@@ -471,4 +471,4 @@ def calculate_age(birth_date, current_date):
         age -= 1
     return age  
 import datetime
-print(calculate_age(datetime.date(1991, 4, 14), datetime.date(2025, 3, 20)))
+print(calculate_age(datetime.date(1996, 8, 4), datetime.date(2025, 3, 20)))
